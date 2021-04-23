@@ -11,10 +11,10 @@
 
 # Atom
 
-# 1. Download & Install Atom
+## 1. Download & Install Atom
 * [Atom][4]
 
-# 2. Install Atom Packages
+## 2. Install Atom Packages
 In terminal, run the following commands
 
 ```
